@@ -6,6 +6,8 @@ A robust Java-based solution designed for managing corporate assets and payroll.
 
 ![Class Diagram](./ClassDiagram/ClassDiagram.png)
 
+View the full challenge description here: ![AssignmentQuestion](AssignmentQuestion.txt)
+
 --- 
 
 ## 🚀 Key Features
