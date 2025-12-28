@@ -51,7 +51,8 @@ The system calculates expiring assets by invoking getAssetsByDate() for each per
 │   ├── Admin.java           # Reporting Logic
 │   └── ... (Other Classes)
 ├── ClassDiagram/
-│   └── classdiagram.png    # Architectural Visuals
+│   └── ClassDiagram.png     # Architectural Visuals
+├── AssignmentQuestion.txt   # Contains Question Description  
 ├── .gitignore               # Keeps repo clean of .class files
 └── README.md                # Project documentation
 ```
